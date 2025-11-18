@@ -1,0 +1,12 @@
+cloudy
+dew
+fogsmog
+frost
+hail
+lightning
+rain
+rainbow
+shine
+snow
+sunrise
+tornado
